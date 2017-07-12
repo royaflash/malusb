@@ -1,3 +1,4 @@
+مراقب usb ها ی که در زمین هستند باشیم // این ساختارها میتونن ابزاری برای نفوذ به سیستم های شما باشن 
 #HID spoofing multi-OS payload for Teensy
 
 This code allows to create a cross-platform HID spoofing payload that
