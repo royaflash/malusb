@@ -1,4 +1,4 @@
-مراقب<div dir=rtl><p> usb ها ی که در زمین هستند باشیم // این ساختارها میتونن ابزاری برای نفوذ به سیستم های شما باشن </p></div>
+<div dir=rtl><p>مراقب usb ها ی که در زمین هستند باشیم // این ساختارها میتونن ابزاری برای نفوذ به سیستم های شما باشن </p></div>
 #HID spoofing multi-OS payload for Teensy
 
 This code allows to create a cross-platform HID spoofing payload that
